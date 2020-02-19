@@ -1,0 +1,29 @@
+c:\users\pikas\documents\visual studio 2017\Projects\failu sirfavimas\failu sirfavimas\bin\Debug\failu sirfavimas.exe.config
+c:\users\pikas\documents\visual studio 2017\Projects\failu sirfavimas\failu sirfavimas\bin\Debug\failu sirfavimas.exe
+c:\users\pikas\documents\visual studio 2017\Projects\failu sirfavimas\failu sirfavimas\bin\Debug\failu sirfavimas.pdb
+c:\users\pikas\documents\visual studio 2017\Projects\failu sirfavimas\failu sirfavimas\obj\Debug\failu sirfavimas.csprojResolveAssemblyReference.cache
+c:\users\pikas\documents\visual studio 2017\Projects\failu sirfavimas\failu sirfavimas\obj\Debug\failu_sirfavimas.Form1.resources
+c:\users\pikas\documents\visual studio 2017\Projects\failu sirfavimas\failu sirfavimas\obj\Debug\failu_sirfavimas.Properties.Resources.resources
+c:\users\pikas\documents\visual studio 2017\Projects\failu sirfavimas\failu sirfavimas\obj\Debug\failu sirfavimas.csproj.GenerateResource.Cache
+c:\users\pikas\documents\visual studio 2017\Projects\failu sirfavimas\failu sirfavimas\obj\Debug\failu sirfavimas.exe
+c:\users\pikas\documents\visual studio 2017\Projects\failu sirfavimas\failu sirfavimas\obj\Debug\failu sirfavimas.pdb
+C:\Users\s030353\Desktop\darbai\failu sirfavimas\failu sirfavimas\bin\Debug\failu sirfavimas.exe.config
+C:\Users\s030353\Desktop\darbai\failu sirfavimas\failu sirfavimas\bin\Debug\failu sirfavimas.exe
+C:\Users\s030353\Desktop\darbai\failu sirfavimas\failu sirfavimas\bin\Debug\failu sirfavimas.pdb
+C:\Users\s030353\Desktop\darbai\failu sirfavimas\failu sirfavimas\obj\Debug\failu sirfavimas.csprojAssemblyReference.cache
+C:\Users\s030353\Desktop\darbai\failu sirfavimas\failu sirfavimas\obj\Debug\failu_sirfavimas.Form1.resources
+C:\Users\s030353\Desktop\darbai\failu sirfavimas\failu sirfavimas\obj\Debug\failu_sirfavimas.Properties.Resources.resources
+C:\Users\s030353\Desktop\darbai\failu sirfavimas\failu sirfavimas\obj\Debug\failu sirfavimas.csproj.GenerateResource.cache
+C:\Users\s030353\Desktop\darbai\failu sirfavimas\failu sirfavimas\obj\Debug\failu sirfavimas.csproj.CoreCompileInputs.cache
+C:\Users\s030353\Desktop\darbai\failu sirfavimas\failu sirfavimas\obj\Debug\failu sirfavimas.exe
+C:\Users\s030353\Desktop\darbai\failu sirfavimas\failu sirfavimas\obj\Debug\failu sirfavimas.pdb
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\2 darbas\failu sirfavimas\failu sirfavimas\bin\Debug\failu sirfavimas.exe.config
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\2 darbas\failu sirfavimas\failu sirfavimas\bin\Debug\failu sirfavimas.exe
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\2 darbas\failu sirfavimas\failu sirfavimas\bin\Debug\failu sirfavimas.pdb
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\2 darbas\failu sirfavimas\failu sirfavimas\obj\Debug\failu sirfavimas.csprojAssemblyReference.cache
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\2 darbas\failu sirfavimas\failu sirfavimas\obj\Debug\failu_sirfavimas.Form1.resources
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\2 darbas\failu sirfavimas\failu sirfavimas\obj\Debug\failu_sirfavimas.Properties.Resources.resources
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\2 darbas\failu sirfavimas\failu sirfavimas\obj\Debug\failu sirfavimas.csproj.GenerateResource.cache
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\2 darbas\failu sirfavimas\failu sirfavimas\obj\Debug\failu sirfavimas.csproj.CoreCompileInputs.cache
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\2 darbas\failu sirfavimas\failu sirfavimas\obj\Debug\failu sirfavimas.exe
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\2 darbas\failu sirfavimas\failu sirfavimas\obj\Debug\failu sirfavimas.pdb
